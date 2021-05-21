@@ -33,7 +33,7 @@
         <scouter.whole.packaging.prepare.dir>${project.basedir}/../target/whole-pack-working</scouter.whole.packaging.prepare.dir>
         <scouter.product.name>scouter-all-${project.version}</scouter.product.name>
 
-        <jetty.version>9.4.6.v20170531</jetty.version>
+        <jetty.version>9.4.40.v20210413</jetty.version>
         <jersey.version>2.25.1</jersey.version>
         <slf4j.version>1.7.25</slf4j.version>
         <logback.version>1.2.3</logback.version>
